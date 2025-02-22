@@ -202,7 +202,7 @@ Thanks goes to all these Wonderful People. Contributions of any kind are welcome
   <img src="https://contrib.rocks/image?repo=The-Cool-Coders/Project-Ideas-And-Resources" />
 </a>
 <a href="https://github.com/AkhtarZeb5101">
-  <img src="https://avatars.githubusercontent.com/u/137925280?v=4" width="100" height="100" style="border-radius: 50%;" />
+  <img src="https://avatars.githubusercontent.com/u/103601189?v=4" width="100" height="100" style="border-radius: 50%;" />
 </a>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
