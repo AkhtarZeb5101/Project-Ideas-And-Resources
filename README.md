@@ -190,25 +190,6 @@ You can also add your own examples to the projects after you have completed them
 - [The Complete Guide to Full Stack Web3 Development](https://dev.to/dabit3/the-complete-guide-to-full-stack-web3-development-4g74)
 
 
-## ✨ Hall Of Contributors
-
-Thanks goes to all these Wonderful People. Contributions of any kind are welcome!🚀
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<a href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources/contributors">
-  <img src="https://contrib.rocks/image?repo=The-Cool-Coders/Project-Ideas-And-Resources" />
-</a>
-<a href="https://github.com/AkhtarZeb5101">
- <img src="https://avatars.githubusercontent.com/u/103601189?v=4" width="64" height="64" style="border-radius: 50%; object-fit: cover;" />
-</a>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for successful PRs.
-
 ## Spread the word!
 
 If the information from this repo was useful to you in any way, make sure you give it a star 🌟, this way others can find it and benefit too! Together we can grow and make our community better! :smiley:
