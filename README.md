@@ -202,10 +202,12 @@ Thanks goes to all these Wonderful People. Contributions of any kind are welcome
   <img src="https://contrib.rocks/image?repo=The-Cool-Coders/Project-Ideas-And-Resources" />
 </a>
 <a href="https://github.com/AkhtarZeb5101">
-  <img src="https://avatars.githubusercontent.com/u/137925280?v=4" width="100" />
+  <img src="https://avatars.githubusercontent.com/u/137925280?v=4" width="100" height="100" style="border-radius: 50%;" />
 </a>
 
-Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for succesful PRs
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+Looking for Great Contributions from all the open source enthusiasts for making this repository even bigger! Do follow the steps mentioned in Contributing.md file for successful PRs.
 
 ## Spread the word!
 
